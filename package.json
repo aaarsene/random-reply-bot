@@ -1,0 +1,13 @@
+{
+  "name": "random-reply-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot wich gives a random reply (from a predefined list) when mentioned.",
+  "main": "main.js",
+  "author": "Arsène Thieffry <arsene.thieffry@openmailbox.org>",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
